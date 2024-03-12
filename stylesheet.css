@@ -58,6 +58,9 @@ h3 {
     color: #fff;
 }
 
+#MENUFOOTER h3:hover {
+    background-color: #383939;
+
 
 #MENUFOOTER li {
     display: inline;
