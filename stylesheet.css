@@ -60,12 +60,11 @@ h3 {
 
 #MENUFOOTER h3:hover {
     background-color: #383939;
-
+}
 
 #MENUFOOTER li {
     display: inline;
     margin-right: 30px;
-
 }
 
 #MENUFOOTER li a {
@@ -76,8 +75,6 @@ h3 {
 
     background-color: #878787;
     color: #fff;
-
-    ;
 }
 
 #MENUFOOTER li a:hover {
